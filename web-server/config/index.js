@@ -1,0 +1,1 @@
+exports.numberOfQuestions = 10;
